@@ -41,6 +41,7 @@ textarea {
   height: 200px;
   padding: 10px;
   margin-bottom: 20px;
+  outline: none;
 }
 
 select,
